@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.ssl_psk" name="Python SSL PSK Socket Support" version="1.0.0" provider-name="Drakulix">
+  <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary>Python SSL PSK Socket Support</summary>
+    <description>Provides support for SSL PSK Socket layer encryption in Python</description>
+    <language></language>
+    <platform>winx linux osx</platform>
+    <license>MIT</license>
+    <source>https://github.com/drakulix/script.module.ssl_psk</source>
+  </extension>
+</addon>
