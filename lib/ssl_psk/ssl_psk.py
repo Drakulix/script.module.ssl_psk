@@ -1,4 +1,4 @@
-import ssl27 as ssl
+import ssl
 import _ssl_psk
 
 # memory leak!
